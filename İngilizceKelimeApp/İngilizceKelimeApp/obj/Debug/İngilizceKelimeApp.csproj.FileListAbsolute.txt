@@ -1,0 +1,10 @@
+C:\Users\btk02\source\repos\İngilizceKelimeApp\İngilizceKelimeApp\bin\Debug\İngilizceKelimeApp.exe.config
+C:\Users\btk02\source\repos\İngilizceKelimeApp\İngilizceKelimeApp\bin\Debug\İngilizceKelimeApp.exe
+C:\Users\btk02\source\repos\İngilizceKelimeApp\İngilizceKelimeApp\bin\Debug\İngilizceKelimeApp.pdb
+C:\Users\btk02\source\repos\İngilizceKelimeApp\İngilizceKelimeApp\obj\Debug\İngilizceKelimeApp.csproj.AssemblyReference.cache
+C:\Users\btk02\source\repos\İngilizceKelimeApp\İngilizceKelimeApp\obj\Debug\İngilizceKelimeApp.Form1.resources
+C:\Users\btk02\source\repos\İngilizceKelimeApp\İngilizceKelimeApp\obj\Debug\İngilizceKelimeApp.Properties.Resources.resources
+C:\Users\btk02\source\repos\İngilizceKelimeApp\İngilizceKelimeApp\obj\Debug\İngilizceKelimeApp.csproj.GenerateResource.cache
+C:\Users\btk02\source\repos\İngilizceKelimeApp\İngilizceKelimeApp\obj\Debug\İngilizceKelimeApp.csproj.CoreCompileInputs.cache
+C:\Users\btk02\source\repos\İngilizceKelimeApp\İngilizceKelimeApp\obj\Debug\İngilizceKelimeApp.exe
+C:\Users\btk02\source\repos\İngilizceKelimeApp\İngilizceKelimeApp\obj\Debug\İngilizceKelimeApp.pdb
